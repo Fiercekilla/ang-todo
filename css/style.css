@@ -1,0 +1,26 @@
+.list {
+    border: 1px double gray;
+}
+
+.list ul li {
+    list-style-type: none;
+    width: 400px;
+    padding: 10px;
+}
+
+.details ul li {
+    list-style-type: none;
+
+    padding: 10px;
+}
+
+.list ul li button {
+    float: right;
+    margin: 0 5px;
+}
+
+.addTodo {
+    border: 1px double gray;
+    margin: 5px 0;
+    padding: 5px;
+}
